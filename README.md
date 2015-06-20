@@ -6,7 +6,7 @@ You can run the run_analysis.R by (you have to have the "UCI HAR Dataset" in the
 ~~~
 The output of the script is a test.txt file with tidy data set with the average of each variable for each activity and each subject
 
-The CodeBook.md ecplain each variable.
+* The CodeBook.md explains each variable.
 
 The script run_analysis.R does the following things:
 
