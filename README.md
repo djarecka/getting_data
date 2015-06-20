@@ -1,8 +1,9 @@
-This repo contains solution to the Getting and Cleaning Data's Course Project
+** This repo contains solution to the Getting and Cleaning Data's Course Project**
 
 You can run the run_analysis.R by (you have to have data in the same directory): 
-    $ Rscript run_analysis.R  
-
+~~~
+     Rscript run_analysis.R  
+~~~
 The test,txt file is an output of the script/
 
 The script does the following things:
