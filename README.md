@@ -1,4 +1,4 @@
-** This repo contains solution to the Getting and Cleaning Data's Course Project**
+***This repo contains solution to the Getting and Cleaning Data's Course Project***
 
 You can run the run_analysis.R by (you have to have data in the same directory): 
 ~~~
